@@ -5,4 +5,4 @@ It will change students' studying experience.
 
 ### Medium-fi Prototype
 
-<a href="/stop.jpg">asdf</a>
+<a href="/lecture08-DT-PDF.pdf">asdf</a>
