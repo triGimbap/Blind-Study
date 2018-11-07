@@ -5,3 +5,4 @@ It will change students' studying experience.
 
 ### Medium-fi Prototype
 
+<a href="https://github.com/triGimbap/Blind-Study/blob/master/_config.yml">asdf</a>
