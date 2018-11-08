@@ -6,5 +6,5 @@ It will change students' studying experience.
 ### Medium-fi Prototype
 
 <a href="https://marvelapp.com/487fjb2">Medium-fi Prototype</a><br>
-<a href="https://github.com/triGimbap/Blind-Study/blob/master/README.txt">README</a><br>
+<a href="https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing">README</a><br>
 <a href="https://github.com/triGimbap/Blind-Study/blob/master/presentaton.pptx">Presentation</a><br>
