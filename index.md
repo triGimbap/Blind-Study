@@ -1,7 +1,6 @@
 ## Welcome to Blind Study
 
-Blind Study is a iPad application for low-vision students.<br>
-(Now in Designing)<br>
+Blind Study is a iPad application for low-vision students. (Now in Designing)<br>
 It will change students' studying experience.<br>
 
 ### Medium-fi Prototype
