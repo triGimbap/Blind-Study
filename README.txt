@@ -4,6 +4,9 @@ Blind Study
 README.txt Download
 https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing
 
+Medium-fi Prototype
+https://marvelapp.com/487fjb2
+
 현재 우리가 구현한 프로토타입은 시각장애인들의 학습 경험을 향상 시키기 위한 어플리케이션을 개발하는 것입니다.
 여기서 대상자인 시각장애인들은 완전히 보이지 않는 사람이 아닌 저시력자들입니다.
 이 프로토타입의 경우 사용자들의 과제 수행을 편하게 하기 위한 프로토타입입니다. 
