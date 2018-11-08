@@ -1,6 +1,7 @@
 Blind Study
 삼각김밥(유창현, 김명철, 주창돈)
 
+README.txt Download
 https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing
 
 현재 우리가 구현한 프로토타입은 시각장애인들의 학습 경험을 향상 시키기 위한 어플리케이션을 개발하는 것입니다.
