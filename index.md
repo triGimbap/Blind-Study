@@ -8,7 +8,7 @@ We are triGimbap(삼각김밥).
 Blind Study is a iPad application's prototype for low-vision students.  
 It will change students' studying experience.  
 
-**시각장애 공동체가 답입니다**
+__시각장애 공동체가 답입니다__
 
 ---
 ### 필요 발견하기
@@ -34,6 +34,9 @@ It will change students' studying experience.
 
 ---
 ### 그룹 휴리스틱 평가
+
+_To 불만제로 Team_
+
 
 ---
 ### Hi-fi 프로토타입
