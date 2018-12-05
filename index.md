@@ -28,6 +28,7 @@ It will change students' studying experience.
 * [Medium-fi Prototype](https://marvelapp.com/487fjb2)
 * [README](https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing)
 * [Presentation](https://drive.google.com/file/d/1hUD8tXaLknEUIfkeiYne8jO2TYD6Nmzq/view?usp=sharing)
+[README](README.md)
 
 ---
 ### 그룹 휴리스틱 평가
