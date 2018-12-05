@@ -1,9 +1,9 @@
 ## Welcome to Blind Study
 
-We are triGimbap(삼각김밥).
-유창현(프로토타입 설계 및 개발)
-김명철(프로토타입 설계 및 발표)
-주창돈(프로토타입 개발 및 웹페이지 관리)
+We are triGimbap(삼각김밥).<br>
+유창현(프로토타입 설계 및 개발)<br>
+김명철(프로토타입 설계 및 발표)<br>
+주창돈(프로토타입 개발 및 웹페이지 관리)<br>
 
 Blind Study is a iPad application's prototype for low-vision students.<br>
 It will change students' studying experience.<br>
