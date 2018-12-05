@@ -1,6 +1,11 @@
 ## Welcome to Blind Study
 
-Blind Study is a iPad application for low-vision students. (Now in Designing)<br>
+We are triGimbap(삼각김밥).
+유창현(프로토타입 설계 및 개발)
+김명철(프로토타입 설계 및 발표)
+주창돈(프로토타입 개발 및 웹페이지 관리)
+
+Blind Study is a iPad application's prototype for low-vision students.<br>
 It will change students' studying experience.<br>
 시각장애 공동체가 답입니다<br>
 
