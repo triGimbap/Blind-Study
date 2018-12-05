@@ -19,17 +19,17 @@ It will change students' studying experience.<br>
 
 ### Medium-fi 프로토타입
 
-<a href="https://marvelapp.com/487fjb2">Medium-fi Prototype</a><br>
-<a href="https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing">README</a><br>
-<a href="https://drive.google.com/file/d/1hUD8tXaLknEUIfkeiYne8jO2TYD6Nmzq/view?usp=sharing">Presentation</a><br>
+*<a href="https://marvelapp.com/487fjb2">Medium-fi Prototype</a><br>
+*<a href="https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing">README</a><br>
+*<a href="https://drive.google.com/file/d/1hUD8tXaLknEUIfkeiYne8jO2TYD6Nmzq/view?usp=sharing">Presentation</a><br>
 
 ### 그룹 휴리스틱 평가
 
 ### Hi-fi 프로토타입
 
-<a href="">Hi-fi Prototype</a><br>
+*<a href="">Hi-fi Prototype</a><br>
 
 ### 포스터 & 최종 발표자료
 
-<a href="">Poster</a><br>
-<a href="">Final Presentation</a><br>
+*<a href="">Poster</a><br>
+*<a href="">Final Presentation</a><br>
