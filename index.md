@@ -8,7 +8,7 @@ We are triGimbap(삼각김밥).
 Blind Study is a iPad application's prototype for low-vision students.  
 It will change students' studying experience.  
 
-시각장애 공동체가 답입니다  
+**시각장애 공동체가 답입니다**
 
 ---
 ### 필요 발견하기
@@ -22,12 +22,15 @@ It will change students' studying experience.
 ---
 ### Low-fi 프로토타입 & 테스트
 
+* [Low-fi Prototype in Report](https://drive.google.com/file/d/1ShF1vlcqgfGPx5DYMQFibXQBwcec3mQ_/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/14i7sggBva1SVTE2kmNRQ_pmUkeeRlgIf/view?usp=sharing)
+
 ---
 ### Medium-fi 프로토타입
 
-* <a href="https://marvelapp.com/487fjb2">Medium-fi Prototype</a><br>
-* <a href="https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing">README</a><br>
-* <a href="https://drive.google.com/file/d/1hUD8tXaLknEUIfkeiYne8jO2TYD6Nmzq/view?usp=sharing">Presentation</a><br>
+* [Medium-fi Prototype](https://marvelapp.com/487fjb2)
+* [README](https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/1vglpMw9GRR4Eqc1EDkT-pg5e0YR5lAjb/view?usp=sharing)
 
 ---
 ### 그룹 휴리스틱 평가
@@ -35,10 +38,10 @@ It will change students' studying experience.
 ---
 ### Hi-fi 프로토타입
 
-* <a href="">Hi-fi Prototype</a><br>
+* [Hi-fi Prototype]()
 
 ---
 ### 포스터 & 최종 발표자료
 
-* <a href="">Poster</a><br>
-* <a href="">Final Presentation</a><br>
+* [Poster]()
+* [Final Presentation]()
