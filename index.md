@@ -10,8 +10,8 @@ It will change students' studying experience.
 Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입니다.  
 이것이 저시력자 학생들의 학습경험을 바꿀 것입니다.  
 
-__The answer is the blind community__
-__시각장애 공동체가 답입니다__
+__The answer is the blind community__  
+__시각장애 공동체가 답입니다__  
 
 ---
 ### 필요 발견하기
