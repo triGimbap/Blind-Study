@@ -34,10 +34,10 @@ It will change students' studying experience.<br>
 ---
 ### Hi-fi 프로토타입
 
-* <a href="">Hi-fi Prototype</a><br>
+* [Hi-fi Prototype]()
 
 ---
 ### 포스터 & 최종 발표자료
 
-* <a href="">Poster</a><br>
-* <a href="">Final Presentation</a><br>
+* [Poster]()
+* [Final Presentation]()
