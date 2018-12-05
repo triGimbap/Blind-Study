@@ -25,6 +25,7 @@ It will change students' studying experience.<br>
 ### Medium-fi 프로토타입
 
 * <a href="https://marvelapp.com/487fjb2">Medium-fi Prototype</a><br>
+[Medium-fi Prototype](https://marvelapp.com/487fjb2)
 * <a href="https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing">README</a><br>
 * <a href="https://drive.google.com/file/d/1hUD8tXaLknEUIfkeiYne8jO2TYD6Nmzq/view?usp=sharing">Presentation</a><br>
 
