@@ -1,6 +1,6 @@
 ## Welcome to Blind Study
 
-![kakaotalk_20181206_120954310](https://user-images.githubusercontent.com/19571160/49559057-ae31cf80-f950-11e8-93d9-74e36aa35694.png)
+![logo](https://user-images.githubusercontent.com/19571160/49559057-ae31cf80-f950-11e8-93d9-74e36aa35694.png)
 
 The ultimate goal is independence and independence of the visually impaired.  
 최종적인 목표, 시각장애인의 독립성과 자주성입니다.  
