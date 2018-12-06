@@ -14,45 +14,45 @@ __The answer is the blind community__
 __시각장애 공동체가 답입니다__  
 
 ---
-### 필요 발견하기
+### 1. 필요 발견하기
 
 * []()
 
 ---
-### 아이디어 도출하기
+### 2. 아이디어 도출하기
 
 * []()
 
 ---
-### 컨셉 비디오
+### 3. 컨셉 비디오
 
 * []()
 
 ---
-### Low-fi 프로토타입 & 테스트
+### 4. Low-fi 프로토타입 & 테스트
 
 * [Low-fi Prototype in Report](https://drive.google.com/file/d/1ShF1vlcqgfGPx5DYMQFibXQBwcec3mQ_/view?usp=sharing)
 * [Presentation](https://drive.google.com/file/d/14i7sggBva1SVTE2kmNRQ_pmUkeeRlgIf/view?usp=sharing)
 
 ---
-### Medium-fi 프로토타입
+### 5. Medium-fi 프로토타입
 
 * [Medium-fi Prototype](https://marvelapp.com/487fjb2)
 * [README](https://drive.google.com/file/d/1_CDLuGSSWm2gqj4kOkR7eL2CS3lcTJA0/view?usp=sharing)
 * [Presentation](https://drive.google.com/file/d/1vglpMw9GRR4Eqc1EDkT-pg5e0YR5lAjb/view?usp=sharing)
 
 ---
-### 그룹 휴리스틱 평가
+### 6. 그룹 휴리스틱 평가
 
 * [Heuristic Evaluation Report]()
 
 ---
-### Hi-fi 프로토타입
+### 7. Hi-fi 프로토타입
 
 * [Hi-fi Prototype]()
 
 ---
-### 포스터 & 최종 발표자료
+### 8. 포스터 & 최종 발표자료
 
 * [Poster]()
 * [Final Presentation]()
