@@ -35,8 +35,7 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 
 .videowrapper {
 position: relative;
-padding-bottom: 56.25%; /* 16:9 비율인 경우 */
-/* padding-bottom값은 4:3 비율인 경우 75%로 설정합니다 */
+padding-bottom: 56.25%;
 padding-top: 25px;
 height: 0;
 }
