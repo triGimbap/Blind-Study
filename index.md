@@ -28,7 +28,8 @@ __시각장애 공동체가 답입니다__
 ---
 ### 3. 컨셉 비디오
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cLt7f8eR058" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cLt7f8eR058" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Report](https://drive.google.com/file/d/1lp9U17iuXeSjrMjwJ-Cw-HJ9PTJSwXu9/view?usp=sharing)
 * [Presentation](https://drive.google.com/file/d/1NrKUM2rZPNBNuVH6LdtE0zQdMI9gCr1q/view?usp=sharing)
 
