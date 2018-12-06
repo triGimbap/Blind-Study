@@ -27,7 +27,9 @@ __시각장애 공동체가 답입니다__
 ---
 ### 3. 컨셉 비디오
 
-* []()
+* [Concept Video](https://youtu.be/cLt7f8eR058)
+* [Report](https://drive.google.com/file/d/1lp9U17iuXeSjrMjwJ-Cw-HJ9PTJSwXu9/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/1NrKUM2rZPNBNuVH6LdtE0zQdMI9gCr1q/view?usp=sharing)
 
 ---
 ### 4. Low-fi 프로토타입 & 테스트
@@ -45,7 +47,7 @@ __시각장애 공동체가 답입니다__
 ---
 ### 6. 그룹 휴리스틱 평가
 
-* [Heuristic Evaluation Report]()
+* [Heuristic Evaluation Report](https://drive.google.com/file/d/1805iUs1vf0MUZD-1kBxJ2q5ouDw3IzOE/view?usp=sharing)
 
 ---
 ### 7. Hi-fi 프로토타입
