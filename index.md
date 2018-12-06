@@ -33,23 +33,8 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 ---
 ### 3. Concept Video (컨셉 비디오)
 
-.videowrapper {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: 25px;
-height: 0;
-}
-
-.videowrapper iframe {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-
-<div class="videowrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cLt7f8eR058" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div position="relative" padding-bottom="56.25%" padding-top="25px" height="0">
+<iframe position="absolute" top="0" left="0" width="100%" height="100%" src="https://www.youtube.com/embed/cLt7f8eR058" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 * [Report](https://drive.google.com/file/d/1lp9U17iuXeSjrMjwJ-Cw-HJ9PTJSwXu9/view?usp=sharing)
