@@ -1,5 +1,7 @@
 ## Welcome to Blind Study
 
+<img src="https://drive.google.com/file/d/1iUVbXet9jUcH4bDo6YUMIHE6aYEPTnnn/view?usp=sharing"></img>
+
 We are triGimbap(삼각김밥).  
 유창현(프로토타입 설계 및 개발)  
 김명철(프로토타입 설계 및 발표)  
