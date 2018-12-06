@@ -21,7 +21,8 @@ __시각장애 공동체가 답입니다__
 ---
 ### 2. 아이디어 도출하기
 
-* []()
+* [Report](https://drive.google.com/file/d/1iYP-txDhNsB7KAUR7Et8XJlNXMStI3of/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/1BFZS_dQoJCP88cQxhHAepM3G6OLRQv6a/view?usp=sharing)
 
 ---
 ### 3. 컨셉 비디오
