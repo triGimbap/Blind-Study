@@ -16,7 +16,8 @@ __시각장애 공동체가 답입니다__
 ---
 ### 1. 필요 발견하기
 
-* [Report & Presentation](https://drive.google.com/file/d/1EC6i8rulwa2k_fWAMWO-GJ-6DPb3Iq4e/view?usp=sharing)
+* [Report](https://drive.google.com/file/d/14IUmpwGb9MUTo2-zAVHfFM2Dm-k4xse_/view?usp=sharing)
+* [Presentation](https://drive.google.com/file/d/1GEDcKHIbS8O-E7pHSRQSPAD0lTI4Qo8g/view?usp=sharing)
 
 ---
 ### 2. 아이디어 도출하기
