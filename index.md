@@ -1,6 +1,11 @@
 ## Welcome to Blind Study
 
 ![kakaotalk_20181206_120954310](https://user-images.githubusercontent.com/19571160/49559057-ae31cf80-f950-11e8-93d9-74e36aa35694.png)
+The ultimate goal is independence and independence of the visually impaired.  
+최종적인 목표, 시각장애인의 독립성과 자주성입니다.  
+
+__The answer is the blind community__  
+__시각장애 공동체가 답입니다__  
 
 We are triGimbap(삼각김밥).  
 유창현(프로토타입 설계 및 개발)  
@@ -11,9 +16,6 @@ Blind Study is a iPad application's prototype for low-vision students.
 It will change students' studying experience.  
 Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입니다.  
 이것이 학생들의 학습경험을 바꿀 것입니다.  
-
-__The answer is the blind community__  
-__시각장애 공동체가 답입니다__  
 
 ---
 ### 1. 필요 발견하기
