@@ -65,4 +65,4 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 ### 8. Poster & Final Presentation (포스터 & 최종 발표자료)
 
 * [Poster](https://drive.google.com/file/d/1vPpg_-d9mPL1JubDXhQsUs442j8HVjFG/view?usp=sharing)
-* [Final Presentation](https://drive.google.com/file/d/1nuqDlnJRwopB93ULeZyrKLuY-YtNfjIa/view?usp=sharing)
+* [Final Presentation](https://drive.google.com/file/d/1B5UPwRkKbXW-gMyoAxhhV9Lf_rN7D67C/view?usp=sharing)
