@@ -54,7 +54,7 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 ---
 ### 6. Group Heuristic Evaluation (그룹 휴리스틱 평가)
 
-provided by Team 
+provided by Team 불만제로  
 * [Heuristic Evaluation Report](https://drive.google.com/file/d/1805iUs1vf0MUZD-1kBxJ2q5ouDw3IzOE/view?usp=sharing)
 
 ---
