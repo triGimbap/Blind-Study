@@ -10,7 +10,7 @@ __시각장애 공동체가 답입니다__
 
 We are triGimbap(삼각김밥).  
 유창현(프로토타입 설계 및 개발)  
-김명철(프로토타입 설계 및 발표)  
+김명철(프로토타입 설계,  및 발표)  
 주창돈(자료 및 웹페이지 관리)  
 
 Blind Study is a iPad application's prototype for low-vision students.  
