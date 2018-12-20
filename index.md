@@ -59,8 +59,8 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 ---
 ### 7. Hi-fi Prototype (Hi-fi 프로토타입)
 
-* [Hi-fi Prototype]()
-* [README]()
+* [Hi-fi Prototype(Android)](https://drive.google.com/file/d/1dhEaDS1xRToOZSdVU0YuA6u2kSPwldN2/view?usp=sharing)
+* [README](https://drive.google.com/file/d/1VwdhbE2mfBae7teKZuudBPMGAtk1jQ3J/view?usp=sharing)
 
 ---
 ### 8. Poster & Final Presentation (포스터 & 최종 발표자료)
