@@ -67,4 +67,4 @@ Blind Study는 저시력자 학생들을 위한 iPad 앱의 프로토타입입�
 
 * [Poster](https://drive.google.com/file/d/130jhzR9D7-2eTVtO_GEFkWTsWmIyoYir/view?usp=sharing)
 * [Final Presentation](https://drive.google.com/file/d/1MVt3EoagKrmn44dMl_-7JolT59lPNZhE/view?usp=sharing)
-* [Final Report]()
+* [Final Report](https://drive.google.com/file/d/1291-uKJN2oQg0MMsP0Ati0jgWSVgGVXm/view?usp=sharing)
